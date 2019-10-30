@@ -1,11 +1,11 @@
 # IE 423 Progress Journal
 
 We are the Group 15. Our group members are:
-1. Berkay Onurtürk
-2. Aslı Atakan
-3. Sedef Yağcı
-4. Pelinsu Yılmaz
-5. Ateş Korkut
+1. Berkay Onurturk
+2. AslÄ± Atakan
+3. Sedef Yagci
+4. Pelinsu Yilmaz
+5. Ates Korkut
 
 
 ## Project Part 1

@@ -9,4 +9,4 @@ We are the Group 15. Our group members are:
 
 
 ## Project Part 1
-[Here](Report.html) is our Project Part 1.
+[Here](Report.html) is our Project Part 1 & 2.

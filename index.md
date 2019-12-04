@@ -7,7 +7,7 @@ We are the Group 15. Our group members are:
 4. Pelinsu Yilmaz
 5. Ates Korkut.
 
-
+[Here](part2group15.html) is our Project Part  2.
 
 [Here](Report.html) is our Project Part 1 
-[Here](part2group15.html) is our Project Part  2.
+
